@@ -1,0 +1,12 @@
+C:\Users\Dell\source\repos\EmployeeManagementAPI\EmployeeManagementLibrary\bin\Debug\net5.0\EmployeeManagementLibrary.deps.json
+C:\Users\Dell\source\repos\EmployeeManagementAPI\EmployeeManagementLibrary\bin\Debug\net5.0\EmployeeManagementLibrary.dll
+C:\Users\Dell\source\repos\EmployeeManagementAPI\EmployeeManagementLibrary\bin\Debug\net5.0\ref\EmployeeManagementLibrary.dll
+C:\Users\Dell\source\repos\EmployeeManagementAPI\EmployeeManagementLibrary\bin\Debug\net5.0\EmployeeManagementLibrary.pdb
+C:\Users\Dell\source\repos\EmployeeManagementAPI\EmployeeManagementLibrary\obj\Debug\net5.0\EmployeeManagementLibrary.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\EmployeeManagementAPI\EmployeeManagementLibrary\obj\Debug\net5.0\EmployeeManagementLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\EmployeeManagementAPI\EmployeeManagementLibrary\obj\Debug\net5.0\EmployeeManagementLibrary.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\EmployeeManagementAPI\EmployeeManagementLibrary\obj\Debug\net5.0\EmployeeManagementLibrary.AssemblyInfo.cs
+C:\Users\Dell\source\repos\EmployeeManagementAPI\EmployeeManagementLibrary\obj\Debug\net5.0\EmployeeManagementLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\EmployeeManagementAPI\EmployeeManagementLibrary\obj\Debug\net5.0\EmployeeManagementLibrary.dll
+C:\Users\Dell\source\repos\EmployeeManagementAPI\EmployeeManagementLibrary\obj\Debug\net5.0\ref\EmployeeManagementLibrary.dll
+C:\Users\Dell\source\repos\EmployeeManagementAPI\EmployeeManagementLibrary\obj\Debug\net5.0\EmployeeManagementLibrary.pdb
