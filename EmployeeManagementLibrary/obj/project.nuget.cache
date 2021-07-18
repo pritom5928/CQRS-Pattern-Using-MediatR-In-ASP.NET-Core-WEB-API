@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "U7yf3tVwzrR63T4gDClz7EFTNlJf4cklBu3cZpOm6lcXDaRbQ1cA04+fpX9rkuFdCpJsNfBF+bPmb/cYTup4wg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dell\\source\\repos\\EmployeeManagementAPI\\EmployeeManagementLibrary\\EmployeeManagementLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

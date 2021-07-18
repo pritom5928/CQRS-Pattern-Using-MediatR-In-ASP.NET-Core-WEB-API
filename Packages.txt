@@ -1,0 +1,8 @@
+--> EmployeeManagementLibrary
+
+	MediatR
+
+--> EmployeeManagementAPI
+	
+	Swashbuckle ASP.NET CORE
+	MediatR.Extensions.Micorosoft.DependencyInjection
